@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TejeshArya
+- 👀 I’m interested in JAVA
+- 🌱 I’m currently learning FULL STACK
+- 💞️ I’m looking to collaborate on GITHUB
+- 📫 How to reach me tejesharyagudla@gmail.com
